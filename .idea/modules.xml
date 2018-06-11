@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ToastUtil.iml" filepath="$PROJECT_DIR$/ToastUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToastUtil-master-773f401ed6ae8b20f8cec091b78a560f5c392c8e.iml" filepath="$PROJECT_DIR$/ToastUtil-master-773f401ed6ae8b20f8cec091b78a560f5c392c8e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
